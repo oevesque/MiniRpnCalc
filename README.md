@@ -3,7 +3,7 @@
 Calculatrice scientifique à **notation polonaise inverse** (RPN, comme les HP) pour Windows.
 Un seul petit exécutable (environ 100 Ko), sans installation ni dépendance, qui **démarre instantanément**.
 
-![Fenêtre principale de MiniCalc RPN](docs/capture-principale.png)
+![Fenêtre principale de MiniCalc RPN](docs/capture-principale.jpg)
 
 ## Pourquoi ce programme ?
 
@@ -27,7 +27,7 @@ La réécriture a gardé l'esprit de l'original (écran de pile, menus de foncti
 
 | Liste des fonctions (clic sur **MENU**) | Boutons dépliés et liste **STK** |
 |---|---|
-| ![Liste MENU en 5 colonnes](docs/capture-menu.png) | ![Boutons + - × ÷ et liste STK](docs/capture-boutons.png) |
+| ![Liste MENU en 5 colonnes](docs/capture-menu.jpg) | ![Boutons + - × ÷ et liste STK](docs/capture-boutons.jpg) |
 
 ## Utilisation
 
